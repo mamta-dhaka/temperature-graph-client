@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57c58553-3b7a-454a-8549-ae0662aa72da" name="Default" comment="" />
+    <list default="true" id="57c58553-3b7a-454a-8549-ae0662aa72da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -45,6 +48,11 @@
             <path>
               <item name="temperature-graph-client" type="b2602c69:ProjectViewProjectNode" />
               <item name="temperature-graph-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="temperature-graph-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="temperature-graph-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,12 +94,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541010715310</updated>
       <workItem from="1541010717027" duration="127000" />
-      <workItem from="1541011341650" duration="452000" />
+      <workItem from="1541011341650" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="579000" />
+    <option name="totallyTimeSpent" value="856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

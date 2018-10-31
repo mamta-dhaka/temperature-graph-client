@@ -1,1 +1,0 @@
-# temperature-graph-client
